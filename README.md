@@ -6,7 +6,7 @@
 
 💻 Game Developer
 
-📍 Based in Midwest United States
+📍 Based in the Midwest United States
 
 ⚡️ FOSS Enthusiast
 

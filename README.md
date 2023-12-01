@@ -1,5 +1,5 @@
 <h1 align="center">
-Hey, I'm Ninety
+👋 Hey, I'm Ninety
 </h1>
 
 ## About Me

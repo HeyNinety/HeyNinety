@@ -5,6 +5,7 @@
 ## About Me
 
 Founder @ 7LAMP
+
 Founder @ Rainy Day
 
 💻 Game Developer

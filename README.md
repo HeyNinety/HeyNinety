@@ -4,7 +4,7 @@
 
 ## About Me
 
-Founder @ 7LAMP
+Founder @ 7LAMPS
 
 Founder @ Rainy Day
 
